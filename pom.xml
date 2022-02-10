@@ -14,7 +14,7 @@
         <jersey2.vr>2.19</jersey2.vr>
         <jaxrs.vr>2.0.1</jaxrs.vr>
         <ejb.vr>3.0</ejb.vr>
-        <hibernate.vr>5.4.12.FINAL</hibernate.vr>
+        <hibernate.vr>5.4.24.Final</hibernate.vr>
         <javaee.vr>8.0</javaee.vr>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
